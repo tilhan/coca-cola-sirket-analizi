@@ -1,7 +1,7 @@
 # Site settings
 logo: img/logo.png
 title:
-email: tayyip.ilhannn@gmail.com
+email: "tayyip.ilhannn@gmail.com"
 description: "Coca Cola Şirket Analizi"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
