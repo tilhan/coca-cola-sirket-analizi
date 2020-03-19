@@ -22,3 +22,10 @@
 .sidebar-nav{
     margin-top: 10px;
 }
+.tarihce-resim{
+    max-width: 500px;
+}
+
+html{
+    scroll-behavior: smooth;
+}
