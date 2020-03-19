@@ -1,6 +1,4 @@
-#fiXed{        
-    border-radius: 50%;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, .3), 0 1px 8px rgba(0, 0, 0, .1);
+#fiXed{
     display: block;
     padding: 18px 20px 20px;
     position: fixed;
@@ -9,4 +7,18 @@
 }
 #menulogo{
     max-width: 130px;
+}
+
+.fa-arrow-down{
+    margin-right: 10px;
+}
+
+
+.baslik{
+    color: white;
+    text-shadow: 4px 4px 0px #5f5c5c;
+}
+
+.sidebar-nav{
+    margin-top: 10px;
 }
