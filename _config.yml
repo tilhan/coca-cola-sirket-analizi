@@ -1,0 +1,28 @@
+# Site settings
+logo: img/logo.png
+title:
+email: tayyip.ilhannn@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+Coca Cola Şirket Analizi
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+# User setting
+owner: Tayip İlhan
+owner2: 1900001795
+email:
+facebook_username: https://www.facebook.com/tayip.ilhan.16
+twitter_username: https://twitter.com/IlhnTayip
+github_username: https://github.com/tilhan
+address: İstanbul Kültür Üniversitesi
+  - line:
+  - line:
+  # Feel free to add more lines here 
+telephone:
+copyright:
+
+# API settings
+google_api_key:
+
+# Build settings
+markdown: kramdown
