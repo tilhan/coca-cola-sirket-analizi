@@ -29,3 +29,24 @@
 html{
     scroll-behavior: smooth;
 }
+
+.fa-circle{
+    color: whitesmoke;
+}
+
+.icindekiler-baslik{
+    color: white;
+}
+
+.btn-dark{
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.map{
+    margin-bottom: 120px;
+}
+
+.urun-resimcolon{
+    display: inline-flex;
+}
